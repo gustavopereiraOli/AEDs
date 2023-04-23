@@ -1,19 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-// void lerVetor(float vetor1[], float vetor2[], int tam){
-//   for(int i = 0; i < tam; i++){
-//     for(int j = 0; j < tam; j++){
-//       scanf("%f", &vetor1[i]);
-//       scanf("%f", &vetor2[j]);
-//     }
-//   }
-// }
-
-// int distanciaEuclidiana(float vetor1[], float vetor2[], int tam){
-  
-// }
-
 int main(){
 
   float pontos[2][2];
