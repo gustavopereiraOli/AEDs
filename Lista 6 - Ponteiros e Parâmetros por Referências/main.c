@@ -1,5 +1,4 @@
 #include "funcoes.h"
-#include <stdbool.h>
 
 int main() {
 
